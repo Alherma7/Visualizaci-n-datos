@@ -1,4 +1,4 @@
-## Visualización Ridgeline de Penguins
+## Visualización Ridgeline de Cocodrilos
 
 Este proyecto muestra la distribución de masa corporal por especie de pingüino usando CanvasXpress.
 
